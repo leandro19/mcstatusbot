@@ -18,13 +18,7 @@
 - Step 11: Where it says `"YOUR SERVER IP HERE"` replace that text with your server ip
 - Step 12: Where it says `"YOUR SERVER PORT HERE"` replace that text with your server port
 - Step 13: Save the "config.json file and close it
-- Step 14: Copy the location of your current directory
-- Step 15: edit run.bat and replace the text `"YOUR FOLDER ADDRESS HERE"` with the directory location
-- Step 16: Save and close `run.bat`
 
 # Running your bot
 
-Run the file `run.bat` like you would run a `.exe` file
-
-then press the enter key.
-		
+Run the file `run.bat` as you would run a `.exe` file
