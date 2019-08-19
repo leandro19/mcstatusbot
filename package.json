@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/lerokko/mcstatusbot#readme",
   "dependencies": {
-    "discord.js": "^11.4.2",
-    "request": "^2.88.0"
+    "discord.js": "^11.4.2"
   }
 }
